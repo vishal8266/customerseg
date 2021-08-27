@@ -18,7 +18,7 @@ function TableauDashboard(){
 
     return (
     <div>
-        <p> This is my tableau dashboard</p>
+        <p></p>
         <div ref={ref}></div>
     </div>
     );
