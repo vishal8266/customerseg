@@ -6,8 +6,7 @@ function TableauDashboard(){
 
     const ref = useRef(null)
 
-    const url = "http://public.tableau.com/views/RegionalSampleWorkbook/Storms";
-
+    const url = "https://public.tableau.com/views/CustomerTranscationDataAnalysis/CustomerTranscationDataAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"
 
     function initViz() {
         new tableau.Viz(ref.current, url)
