@@ -7,8 +7,8 @@ function PlotlyDashboard(){
         <div>
 
         <h1>Hello Worlds</h1>
-           <iframe src='https://dash-gallery.plotly.host/ddk-clinical-trial-dashboard/'/>
-
+           <iframe src='https://vishal8266.github.io/clust.github.io/'/>
+        
             
         </div>
     )
